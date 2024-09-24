@@ -1,0 +1,16 @@
+C:\Users\shu\Desktop\113-1c++\hello\hello\bin\Debug\net8.0-windows\hello.exe
+C:\Users\shu\Desktop\113-1c++\hello\hello\bin\Debug\net8.0-windows\hello.deps.json
+C:\Users\shu\Desktop\113-1c++\hello\hello\bin\Debug\net8.0-windows\hello.runtimeconfig.json
+C:\Users\shu\Desktop\113-1c++\hello\hello\bin\Debug\net8.0-windows\hello.dll
+C:\Users\shu\Desktop\113-1c++\hello\hello\bin\Debug\net8.0-windows\hello.pdb
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.Form1.resources
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.AssemblyInfo.cs
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.dll
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\refint\hello.dll
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.pdb
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\hello.genruntimeconfig.cache
+C:\Users\shu\Desktop\113-1c++\hello\hello\obj\Debug\net8.0-windows\ref\hello.dll
