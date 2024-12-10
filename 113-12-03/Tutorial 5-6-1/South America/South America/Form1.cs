@@ -26,7 +26,7 @@ namespace South_America
             {
                 StreamReader inputFile;//用來讀取檔案物件
                 string countryName;   //用來保存檔案中的資料
-                if (openFile.showdialog() == DialogResult.OK)
+                if (openFile.ShowDialog() == DialogResult.OK)
                 {
                     inputFile = File.OpenText("Countries,txt");//開啟檔案
                     while (!inputFile.EndOfStream) //當未達到檔案結尾時
